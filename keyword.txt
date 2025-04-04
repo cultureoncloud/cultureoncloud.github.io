@@ -2,6 +2,7 @@ google.com
 youtube.com
 facebook.com
 instagram.com
+bmkg.go.id
 whatsapp.com
 twitter.com
 bilibili.tv
@@ -82,13 +83,17 @@ drakor sub indo
 film indonesia terbaru
 film jepang
 drama serial
+zodiak
 drama china
 film korea
+zodiak hari ini
 film komedi indonesia
 animasu
+cuaca hari ini
 download lagu
 drama chinese sub indo
 anime indo
+cuaca besok
 drama chinese terbaru
 animexin
 lagu dangdut
