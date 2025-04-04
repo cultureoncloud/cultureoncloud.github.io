@@ -6,7 +6,7 @@ whatsapp.com
 twitter.com
 bilibili.tv
 tiktok.com
-linkedin.com
+x.com
 wikipedia.org
 pinterest.com
 telegram.org
@@ -44,7 +44,6 @@ grab.com
 traveloka.com
 tiket.com
 blibli.com
-gramedia.com
 erajakarta.id
 bola.com
 bola.net
@@ -54,6 +53,8 @@ vidio.com
 rctiplus.com
 wetv.vip
 iqiyi.com
+viu.com
+iq.com
 netflix.com
 disneyplus.com
 kapanlagi.com
@@ -98,3 +99,7 @@ download film
 pp anime
 anime girl
 wallpaper anime
+film sub indo
+layarkaca21
+indoxxi
+lk21
